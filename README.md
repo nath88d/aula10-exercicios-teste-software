@@ -1,3 +1,6 @@
+Gabriel Destro 24.122.059-9
+Nathan Dantas 24.122.041-7
+
 ### Instalação
     git clone https://github.com/nath88d/aula10-exercicios-teste-software.git
     cd aula10-exercicios-teste-software/exercicios-teste-software
